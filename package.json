@@ -49,10 +49,10 @@
     "ts-jest": "24.0.2",
     "ts-node": "8.3.0",
     "typescript": "3.6.2",
-    "gluegun": "3.3.4"
+    "gluegun": "3.3.5"
   },
   "peerDependencies": {
-    "gluegun": "3.3.4"
+    "gluegun": "3.3.5"
   },
   "jest": {
     "preset": "ts-jest",
